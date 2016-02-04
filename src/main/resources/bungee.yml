@@ -1,0 +1,4 @@
+name: BungeeReload
+version: ${version}
+author: Jofkos
+main: com.jofkos.breload.BungeeReload
